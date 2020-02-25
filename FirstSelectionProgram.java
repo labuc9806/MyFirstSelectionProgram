@@ -1,6 +1,6 @@
 /*
  * Launa Bucher-Austin
- * This program tells the user how much money they will save upon purchse.
+ * This program tells the user how much money they will save upon purchase.
  * February 20 2020
  */
 
