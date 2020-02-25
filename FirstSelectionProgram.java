@@ -1,6 +1,6 @@
 /*
  * Launa Bucher-Austin
- * To change this template file, choose Tools | Templates
+ * This program tells the user how much money they will save upon purchse.
  * February 20 2020
  */
 
